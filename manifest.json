@@ -1,0 +1,11 @@
+{
+	"name": "chemdoodle_jiyeon",
+	"version": "0.1",
+	"description": "The TransformerCanvas3D component allows your visitors to move, rotate and scale a molecule in 3D. Controls are as follows: rotate by clicking and dragging, translate by holding the alt key and clicking and dragging, scale using the mouse wheel",
+	"manifest_version": 2,
+	"browser_action": {
+		"default_icon": "favicon.png",
+		"default_title": "molecule",
+        "default_popup": "molecule.html"
+	}
+}
